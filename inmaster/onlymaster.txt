@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  This is just for clarification 
+=======
+ just for clarification yes or no
+>>>>>>> 83795ba59fbf1339ebf6ecca8dbf917494d6dc1a
